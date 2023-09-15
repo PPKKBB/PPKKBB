@@ -31,7 +31,7 @@
 ### 🛠 Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-2C2255?style=flat&logo=IntelliJ&logoColor=white" />
+  <img src="https://img.shields.io/badge/intellijidea-#000000?style=flat&logo=IntelliJ&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
