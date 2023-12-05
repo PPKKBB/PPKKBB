@@ -1,6 +1,6 @@
 🚀 About Me
 
-가치를 만드는, 백엔드 개발자가 되고싶은 박경범 입니다.
+가치를 만드는 박경범 입니다.
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=capsule%20render&fontSize=0" />
 
